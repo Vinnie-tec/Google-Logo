@@ -34,7 +34,6 @@ h2 {
 
 .google-logo::before {
   content: "";
-  /* z-index: 100; */
   position: absolute;
   top: 50%;
   right: -95px;
